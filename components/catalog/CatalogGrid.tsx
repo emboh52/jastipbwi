@@ -118,7 +118,6 @@ export default function CatalogGrid() {
           <ProductCard
             key={product.id}
             product={product}
-            rate={currentRate?.rate_to_idr ?? null}
           />
         ))}
       </div>
