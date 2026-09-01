@@ -1,0 +1,5 @@
+{
+  "summary": "Admin layout with navigation bar (Orders, Settings links) and logout button. Conditionally hides admin chrome on the login page.",
+  "updatedAt": "2026-09-01T02:59:36.185579300Z",
+  "userFacing": true
+}

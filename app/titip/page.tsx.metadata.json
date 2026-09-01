@@ -1,0 +1,5 @@
+{
+  "summary": "The /titip page — a thin server component wrapper that renders the client-side OrderForm. Uses 'use client' is on the form component, not the page, to preserve server-side metadata.",
+  "updatedAt": "2026-08-31T12:20:50.628712700Z",
+  "userFacing": true
+}

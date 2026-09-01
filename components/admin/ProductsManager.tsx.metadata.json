@@ -1,0 +1,4 @@
+{
+  "summary": "CRUD component for managing the product catalog. Supports creating products with image upload (reusing the order-images bucket for simplicity, or just as a general public bucket).",
+  "updatedAt": "2026-09-01T03:02:51.687529Z"
+}

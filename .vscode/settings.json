@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.multiRootWorkspaceName": "jastipbwi",
+  "files.watcherExclude": {
+    "**/.next/**": true
+  }
+}

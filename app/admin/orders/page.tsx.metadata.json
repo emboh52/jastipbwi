@@ -1,0 +1,4 @@
+{
+  "summary": "Server component for the /admin/orders route. Sets metadata and renders the client-side OrdersList.",
+  "updatedAt": "2026-09-01T03:01:48.230911200Z"
+}

@@ -1,0 +1,5 @@
+{
+  "summary": "Client component for managing orders. Fetches all orders, displays them in a list with status filters, and includes a detailed view for updating status, weight, tracking, and calculating final totals.",
+  "updatedAt": "2026-09-01T03:01:48.518495Z",
+  "userFacing": true
+}

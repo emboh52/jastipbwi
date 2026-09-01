@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #FDFBF7; /* Krem hangat khas JastipBwi */
+  --foreground: #0b0b0b; /* Teks gelap */
+  --primary: #1B4332;    /* Hijau Hutan / Emerald */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #ffffff;
+    --foreground: #07090b;
+    --primary: #2D6A4F;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: inherit;
+}

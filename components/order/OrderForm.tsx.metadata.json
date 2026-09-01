@@ -1,0 +1,5 @@
+{
+  "summary": "Main order form component for /titip. Handles: destination loading, image upload to Supabase Storage, order+order_items insert via anon key, inline cost estimation, validation, and WhatsApp redirect on success. Mobile-first with large tap targets.",
+  "updatedAt": "2026-08-31T12:21:52.109088300Z",
+  "userFacing": true
+}

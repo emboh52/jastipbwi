@@ -1,0 +1,5 @@
+{
+  "summary": "Post-submit confirmation screen showing order code, success message, and a link to the /lacak tracking page. Also provides a 'new order' button to reset the form.",
+  "updatedAt": "2026-08-31T12:22:21.605542800Z",
+  "userFacing": true
+}

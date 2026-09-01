@@ -1,0 +1,4 @@
+{
+  "summary": "Browser-side Supabase client from @supabase/ssr with cookie-based auth session. Used by admin client components (login, orders, settings). The existing lib/supabase/client.ts is kept for public/anon pages.",
+  "updatedAt": "2026-09-01T02:57:34.999535100Z"
+}

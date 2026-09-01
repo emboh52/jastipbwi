@@ -1,0 +1,5 @@
+{
+  "summary": "The /lacak page server component. Provides metadata and wraps the client-side TrackingLookup in a Suspense boundary (required by Next.js App Router for useSearchParams).",
+  "updatedAt": "2026-09-01T02:50:40.947391Z",
+  "userFacing": true
+}

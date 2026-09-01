@@ -1,0 +1,5 @@
+{
+  "summary": "Catalog page client component. Fetches products from Supabase, renders a responsive grid with ProductCard components, shows empty state, and includes FloatingCartBar.",
+  "updatedAt": "2026-08-31T12:28:29.312952200Z",
+  "userFacing": true
+}

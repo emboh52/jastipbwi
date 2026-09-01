@@ -1,0 +1,5 @@
+{
+  "summary": "Admin login form component. Email/password sign-in via Supabase Auth, with immediate is_admin() check after login to reject non-admin accounts with a clear error instead of a redirect loop.",
+  "updatedAt": "2026-09-01T03:00:04.843258500Z",
+  "userFacing": true
+}

@@ -1,0 +1,5 @@
+{
+  "summary": "Client component for order tracking. Handles search input, auto-lookup from ?code= query param, RPC call to get_order_by_lookup, visual 5-stage status tracker, and result display with resi/total/date.",
+  "updatedAt": "2026-09-01T02:50:28.969674600Z",
+  "userFacing": true
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "Middleware helper that refreshes the Supabase session cookie on every request and exposes the user + supabase client for further checks.",
+  "updatedAt": "2026-09-01T02:57:34.820992600Z"
+}

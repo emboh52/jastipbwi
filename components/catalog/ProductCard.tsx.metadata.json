@@ -1,0 +1,5 @@
+{
+  "summary": "Product card component for the catalog grid. Shows image, name, price (converted to selected currency), and an add-to-cart button that becomes a quantity stepper when the item is already in the cart.",
+  "updatedAt": "2026-08-31T12:28:00.509828700Z",
+  "userFacing": true
+}

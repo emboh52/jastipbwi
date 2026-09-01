@@ -1,0 +1,4 @@
+{
+  "summary": "Shared pricing logic: JASTIP_FEE_RATE (10%), PACKING_FEE_FLAT_IDR (Rp5000), estimateItemsCost(), and calculateFinalTotal(). Single source of truth for both customer estimates and admin total calculation.",
+  "updatedAt": "2026-09-01T02:57:24.151208Z"
+}

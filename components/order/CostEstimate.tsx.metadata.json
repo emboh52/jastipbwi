@@ -1,0 +1,5 @@
+{
+  "summary": "Updated CostEstimate component that now accepts an optional cartSubtotalIdr prop to include catalog cart items in the combined estimate. Shows cart subtotal, custom item subtotal, combined service fee, packing, and grand total with currency conversion.",
+  "updatedAt": "2026-08-31T12:29:06.933734100Z",
+  "userFacing": true
+}
