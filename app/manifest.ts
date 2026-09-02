@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'My PWA App',
-    short_name: 'PWA App',
-    description: 'Aplikasi PWA Siap Deploy Vercel',
+    name: 'JastipBwi',
+    short_name: 'JastipBwi',
+    description: 'Kirim keluar negeri oleh-oleh dan kebutuhan dari Banyuwangi ke luar negeri.',
     start_url: '/',
     display: 'standalone',
     background_color: '#ffffff',
