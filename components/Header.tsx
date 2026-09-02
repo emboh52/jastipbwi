@@ -9,6 +9,7 @@ const navLinks = [
   { href: '/', label: 'Beranda' },
   { href: '/katalog', label: 'Katalog' },
   { href: '/lacak', label: 'Lacak Pesanan' },
+  { href: '/faq', label: 'FAQ' }, // <- Tambahkan link ke /faq di sini
 ];
 
 const WHATSAPP_NUMBER = '6283834892713';
