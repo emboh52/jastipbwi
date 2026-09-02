@@ -8,6 +8,11 @@ import CurrencyInitializer from '@/components/CurrencyInitializer';
 
 const inter = Inter({ subsets: ['latin'] });
 
+// Pengaturan Viewport & Theme Color PWA
+export const viewport = {
+  themeColor: '#ffffff', // Sesuaikan dengan warna tema aplikasi Anda
+};
+
 export const metadata: Metadata = {
   // Tambahkan baris ini untuk menghilangkan warning metadataBase
   metadataBase: new URL(
@@ -16,6 +21,14 @@ export const metadata: Metadata = {
   title: 'JastipBwi — Titip Belanja Banyuwangi ke Luar Negeri',
   description:
     'JastipBwi membantu Pekerja Migran Indonesia (PMI) mengirim oleh-oleh dan kebutuhan dari Banyuwangi ke HK, TW, SG, MY.',
+  
+  // Konfigurasi PWA untuk iOS/Apple Web App
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: 'default',
+    title: 'JastipBwi',
+  },
+
   openGraph: {
     title: 'JastipBwi — Titip Belanja Banyuwangi ke Luar Negeri',
     description:
