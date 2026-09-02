@@ -1,14 +1,13 @@
 import './globals.css';
 
 import { Inter } from 'next/font/google';
-import type { Metadata, Viewport } from 'next'; // Tambahkan Viewport di sini
+import type { Metadata, Viewport } from 'next';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import CurrencyInitializer from '@/components/CurrencyInitializer';
 
 const inter = Inter({ subsets: ['latin'] });
 
-// Pengaturan Viewport & Theme Color PWA
 export const viewport: Viewport = {
   themeColor: '#ffffff',
 };
@@ -20,13 +19,11 @@ export const metadata: Metadata = {
   title: 'JastipBwi — Titip Belanja Banyuwangi ke Luar Negeri',
   description:
     'JastipBwi membantu Pekerja Migran Indonesia (PMI) mengirim oleh-oleh dan kebutuhan dari Banyuwangi ke HK, TW, SG, MY.',
-  
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
     title: 'JastipBwi',
   },
-
   openGraph: {
     title: 'JastipBwi — Titip Belanja Banyuwangi ke Luar Negeri',
     description:
