@@ -8,8 +8,8 @@ import CurrencyToggle from '@/components/CurrencyToggle';
 const navLinks = [
   { href: '/', label: 'Beranda' },
   { href: '/katalog', label: 'Katalog' },
-  { href: '/pengiriman', label: 'Info Pengiriman' }, // <- Tambahkan ini
-  { href: '/lacak', label: 'Lacak Pesanan' },
+  { href: '/pengiriman', label: 'Pengiriman' }, // <- Tambahkan ini
+  { href: '/lacak', label: 'Tracking' },
   { href: '/faq', label: 'FAQ' }, // <- Tambahkan link ke /faq di sini
 ];
 
